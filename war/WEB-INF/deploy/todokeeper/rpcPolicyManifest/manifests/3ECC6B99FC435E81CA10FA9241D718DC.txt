@@ -1,0 +1,2 @@
+serviceClass: com.lab.todo.client.TodoApiService
+path: DD5C3923979C5E1EF42A39F155ED65AD.gwt.rpc

@@ -1,0 +1,3 @@
+# Module todokeeper
+# RPC service class, partial path of RPC policy file
+com.lab.todo.client.TodoApiService, DD5C3923979C5E1EF42A39F155ED65AD.gwt.rpc

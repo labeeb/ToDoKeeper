@@ -1,0 +1,3 @@
+# Module listItems
+# RPC service class, partial path of RPC policy file
+com.lab.todo.client.GreetingService, 5C42CED6050EC9D6334934F2061F5CD2.gwt.rpc
